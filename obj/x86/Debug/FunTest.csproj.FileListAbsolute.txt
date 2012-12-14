@@ -1,0 +1,17 @@
+C:\GlobalId-SAW\Fun\FunTest\FunTest\bin\Debug\FunTest.exe
+C:\GlobalId-SAW\Fun\FunTest\FunTest\bin\Debug\FunTest.pdb
+C:\GlobalId-SAW\Fun\FunTest\FunTest\obj\x86\Debug\Interop.SpeechLib.dll
+C:\GlobalId-SAW\Fun\FunTest\FunTest\obj\x86\Debug\FunTest.csproj.ResolveComReference.cache
+C:\GlobalId-SAW\Fun\FunTest\FunTest\obj\x86\Debug\FunTest.Form1.resources
+C:\GlobalId-SAW\Fun\FunTest\FunTest\obj\x86\Debug\FunTest.Properties.Resources.resources
+C:\GlobalId-SAW\Fun\FunTest\FunTest\obj\x86\Debug\FunTest.exe
+C:\GlobalId-SAW\Fun\FunTest\FunTest\obj\x86\Debug\FunTest.pdb
+C:\GlobalId-SAW\Fun\FunTest\FunTest\obj\x86\Debug\FunTest.csproj.GenerateResource.Cache
+C:\GlobalId-SAW\Fun\FunTest\FunTest\bin\Debug\SQLite.Interop.dll
+C:\GlobalId-SAW\Fun\FunTest\FunTest\bin\Debug\System.Data.SQLite.dll
+C:\GlobalId-SAW\Fun\FunTest\FunTest\bin\Debug\System.Data.SQLite.Linq.dll
+C:\GlobalId-SAW\Fun\FunTest\FunTest\bin\Debug\System.Data.SQLite.pdb
+C:\GlobalId-SAW\Fun\FunTest\FunTest\bin\Debug\System.Data.SQLite.xml
+C:\GlobalId-SAW\Fun\FunTest\FunTest\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\GlobalId-SAW\Fun\FunTest\FunTest\bin\Debug\System.Data.SQLite.Linq.xml
+C:\GlobalId-SAW\Fun\FunTest\FunTest\obj\x86\Debug\FunTest.csprojResolveAssemblyReference.cache
